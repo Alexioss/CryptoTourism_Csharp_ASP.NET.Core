@@ -1,0 +1,477 @@
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\andre\Desktop\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experince\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\andre\Desktop\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\andre\Desktop\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Edit.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Filter\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Edit.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Filter\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Alex Gherghe\Desktop\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Crypto\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Edit.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Crypto\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Filter\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Work\Desktop\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.deps.json
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.json
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.runtimeconfig.dev.json
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.dll
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\bin\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csprojAssemblyReference.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CoreCompileInputs.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfoInputs.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.AssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.input.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.TagHelpers.output.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorCoreGenerate.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\AboutUs\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Edit.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\CRUD\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Crypto\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Experience\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Favourites\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Filter\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\TermsAndConditions\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cache
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.RazorTargetAssemblyInfo.cs
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.Views.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.dll
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.pdb
+C:\Users\Alex Gherghe\Desktop\New licenta (1)\New licenta\New licenta\New licenta\Cryptotourism\Cryptotourism\Cryptotourism\Cryptotourism\CryptoTourism\Cryptotourism\obj\Debug\netcoreapp2.2\Cryptotourism.csproj.CopyComplete

@@ -1,0 +1,127 @@
+﻿@{
+    ViewData["Title"] = "Experiences";
+}
+
+@inject UserManager<User> userManager
+
+@if (User.Identity.IsAuthenticated)
+
+{
+
+    <script>
+        window.onload = function () {
+            var searchedValue = localStorage.getItem(searchedValue);
+            if (searchedValue !== null) $('#search').val(searchedValue);
+        }
+
+        function switchFavorite(id) {
+            if ($("#f-" + id).html() == "Remove from favorites")
+                removeFavorite(id);
+            else addFavorite(id);
+        }
+
+
+        function addFavorite(id) {
+            $.ajax({
+                url: '/API/AddFavorite?id=' + id,
+                type: 'POST',
+                success: function (res) {
+                    console.log(res);
+                    $("#f-" + id).html("Remove from favorites");
+                },
+                error: function (error) { console.log(error) }
+            });
+        }
+
+
+        function removeFavorite(id) {
+            $.ajax({
+                url: '/API/RemoveFavorite?id=' + id,
+                type: 'POST',
+                success: function (res) {
+                    console.log(res);
+                    $("#f-" + id).html("Add to favorites");
+                },
+                error: function (error) { console.log(error) }
+            });
+        }
+
+        function searchExperiences() {
+            const val = $('#search').val();
+            localStorage.setItem(searchedValue, val);
+            if (val != "") {
+                window.location.href = "Home/SearchExperiences?search=" + val;
+            }
+        }
+
+    </script>
+
+
+    @model IEnumerable<Experience>
+
+    User user = await userManager.FindByNameAsync(User.Identity.Name);
+
+
+    <div class="m-sm-3" style="height : 40px">
+        <form class="form-inline float-right">
+            <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">
+                <a asp-area="" asp-controller="Filter" asp-action="Index">Filter questions</a>
+            </button>
+            
+        </form>
+    </div>
+
+    <div class="m-sm-3" style="height : 60px">
+        <form class="form-inline float-right" asp-action="SearchExperiences">
+            <input id="search" class="form-control mr-sm-2" style="width:300px;" type="search" placeholder="Search" aria-label="Search" name="search">
+            <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+
+    <div id="explist">
+
+        @if (Model != null && Model.ToList().Count != 0)
+        {
+            List<Experience> experiences = Model.ToList();
+            <div>
+                @for (var i = 0; i < experiences.Count; i++)
+                {
+                    @if (i % 3 == 0)
+                    {
+                        @:<div class="row">
+                        }
+                    string btnMessage;
+                    if (experiences[i].Favorites == null)
+                    {
+                        btnMessage = "Add to favorites";
+                    }
+                    else
+                    {
+                        btnMessage = experiences[i].Favorites.Any(x => x.UserId == user.Id) ? "Remove from favorites" : "Add to favorites";
+                    }
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail">
+                            <img src="@(experiences[i].ImageThumbnailUrl)" alt="..." width="300" style="border:4px solid grey">
+                            <div class="caption">
+                                <h3>@experiences[i].Name</h3>
+                                <p>@(experiences[i].ShortDescription)</p>
+                                <p><a href="/Experience?id=@experiences[i].Id" class="btn btn-outline-info" role="button">Book</a>
+                                <a class="btn btn-light" id="f-@experiences[i].Id" role="button" onclick="switchFavorite(@experiences[i].Id);">@btnMessage</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    @if (i % 3 == 2 || i == experiences.Count - 1)
+                    {
+                    @:</div>
+                }
+                }
+            </div>
+        }
+        else
+        {
+            <h5>No experiences found.</h5>
+        }
+
+    </div>
+}

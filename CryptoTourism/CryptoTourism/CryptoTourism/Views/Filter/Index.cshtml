@@ -1,0 +1,42 @@
+﻿@model QuestionsViewModel
+@{
+    ViewData["Title"] = "Questionnaire";
+}
+
+<h1>@ViewData["Title"]</h1>
+<br />
+
+<form asp-action="Submit">
+    <div class="form-group mx-sm-3 mb-2">
+        <label asp-for="FirstQuestion">What type of landscape do you prefer?</label>
+        <select asp-for="FirstQuestion" class="form-control" id="firstQuestion">
+            <option>Mountain</option>
+            <option>Sea</option>
+            <option>Hills</option>
+            <option>Plain</option>
+            <option>City</option>
+        </select>
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label asp-for="SecondQuestion">How much are you willing to pay?</label>
+        <select asp-for="SecondQuestion" class="form-control" id="secondQuestion">
+            <option>15</option>
+            <option>20</option>
+            <option>25</option>
+            <option>30</option>
+            <option>40</option>
+        </select>
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label asp-for="ThirdQuestion">Are you interested in Romanian traditions?</label>
+        <select asp-for="ThirdQuestion" class="form-control" id="thirdQuestion">
+            <option>YES</option>
+            <option>NO</option>
+        </select>
+    </div>
+    <div2 class="form-group mx-sm-3 mb-2">
+        <button type="submit" class="btn btn-primary">
+            Submit
+        </button>
+    </div2>
+</form>

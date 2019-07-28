@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Experience>
+@{
+    ViewData["Title"] = "All Experiences";
+    Layout = "_AdminLayout";
+    Layout = "_Layout";
+}
+<div>
+    <a asp-action="Create" class="btn btn-dark">Add Experience</a>
+    <br />
+    <br />
+</div>
+
+<table class="table table-striped table-bordered table-sm">
+    <tr>
+        <th>Name</th>
+        <th>Short Description</th>
+        <th>Price</th>
+        <th class="text-center">CRUD</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.ShortDescription</td>
+            <td>@item.Price</td>
+            <td class="text-center">
+                <form asp-action="Delete" method="post">
+
+                    <input type="hidden" name="experienceId" value="@item.Id" />
+                    <button type="button" class="btn btn-dark btn-sm">
+                        Details
+                    </button>
+                    <a asp-action="Edit" class="btn btn-sm btn-light" asp-route-Id="@item.Id">
+                        Edit
+                    </a>
+                    <input type="hidden" name="experienceId" value="@item.Id" />
+                    <button type="submit" class="btn btn-dark btn-sm">
+                        Delete
+                    </button>
+
+                </form>
+            </td>
+        </tr>
+    }
+</table>
