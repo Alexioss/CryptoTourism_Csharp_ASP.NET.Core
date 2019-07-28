@@ -1,2 +1,2 @@
-# Licenta_Csharp_ASP.NET_Tourism_app
+# CryptoTourism_C-_ASP.NET.Core
 This will be my official repository for working remotely for my application.
